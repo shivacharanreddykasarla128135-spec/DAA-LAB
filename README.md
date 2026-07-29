@@ -1,6 +1,6 @@
                                                         PRACTICAL -1
 
-This repository contains my first Data Structures practical, where I implemented some of the most commonly used sorting algorithms in Python. The main goal of this practical was to understand how each algorithm works, compare their performance, and analyze their time complexity.
+This repository contains my first Design and analysis of algorithms practical, where I implemented some of the most commonly used sorting algorithms in Python. The main goal of this practical was to understand how each algorithm works, compare their performance, and analyze their time complexity.
 
 The project includes Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. Each program accepts user input, sorts the given elements, measures the execution time, and displays the best, average, and worst-case time complexity.
 
