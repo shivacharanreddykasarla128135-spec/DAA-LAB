@@ -22,3 +22,11 @@ Conclusion
 
 In conclusion, Max Heap Sort is an efficient and reliable sorting algorithm for arranging elements in ascending order. The program successfully accepts input from the user, sorts the elements using a Max Heap, and displays the execution time. Its O(n log n) time complexity makes it suitable for handling large amounts of data. It also uses very little extra memory, with a space complexity of O(1).
 
+                                     PRACTICAL -4
+                                     Summary
+
+The recursive method uses repeated function calls, while the iterative method uses a loop. Both methods give the same result and take O(n) time.
+
+Conclusion
+
+From the comparison, the iterative method is simpler and uses less memory. The recursive method is also useful for understanding how functions can call themselves.
