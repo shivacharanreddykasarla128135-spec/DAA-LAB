@@ -22,3 +22,13 @@ Conclusion
 
 In conclusion, Max Heap Sort is an efficient and reliable sorting algorithm for arranging elements in ascending order. The program successfully accepts input from the user, sorts the elements using a Max Heap, and displays the execution time. Its O(n log n) time complexity makes it suitable for handling large amounts of data. It also uses very little extra memory, with a space complexity of O(1).
 
+
+
+                                      practical 4
+                                      Summary
+
+The program demonstrates two different ways to calculate the factorial of a number: recursion and iteration. The recursive method calls itself repeatedly until it reaches 0 or 1, while the iterative method uses a for loop to calculate the factorial. The program also measures and compares the execution time of both methods using Python's time.perf_counter(). This helps us understand not only how the two approaches work but also their performance and memory usage.
+
+Conclusion
+
+From this practical, we learn that both recursive and iterative methods give the same factorial result, but they work in different ways. The recursive method is easy to understand and follows a natural mathematical definition, but it uses additional memory because of repeated function calls. The iterative method is generally more memory-efficient because it uses only a single loop. Both methods have O(n) time complexity, while recursive factorial has O(n) space complexity and iterative factorial has O(1) space complexity. Therefore, for practical programs, the iterative approach is usually preferred when memory efficiency is important.
